@@ -5,14 +5,14 @@ nav_order: 2
 ---
 
 
-# Algorithms,  Fall 2021, Bowdoin College 
+# Algorithms (csci 2200), Spring 2022, Bowdoin College 
 
 
 **Instructor:** Laura Toma 
 
-**Meeting time:** Mon, Wed & Fri 10:05-11:30am
+**Meeting time:** Mon, Wed & Fri 11:40am-1:05pm
 
-**Where:** ~~Searles 126~~  Searles 223
+**Where:**  Searles 223
 
 
 Algorithms are the backbone of computer science. Everywhere computer sciences reaches, there is an algorithm.  This class is an introduction to critical thinking and problem solving through the design and analysis of algorithms.   Arguing why an algorithm works is a crucial part of algorithmic problem solving, which we'll approach only intuitively without going into rigorous proofs (for those who have the background of _Intro to math reasoning_ extending these ideas to formal arguments should be easy). Overall the class will show that the "...subject of algorithms represents a powerful lens through which to view the field of computer science in general" [Kleinberg & Tardos]
@@ -44,13 +44,13 @@ These are all fundamental concepts and there are plenty of resources around.
 
 
 ### Weekly flow: How will this class work?
-The class meets (in-person) three times a week. Each week we'll focus on a couple of topics. To this end there will be lectures (both recorded and in-person), lecture notes, exercises, slides and a problem set.
+The class meets (in-person) three times a week. Each week we'll focus on a couple of topics. Resources consist of lecture notes, exercises, slides and a problem set.
 
-Roughly speaking, the first two meetings of the week  are dedicated to going over the new content.  The third weekly meeting, designated as the _lab_, is for working on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the TAs/LAs will be around to work with you, facilitate discussions and answer your questions. The labs are not graded. It is your responsibility to complete the lab problems and check in with us. 
+Roughly speaking, the first two meetings of the week  are dedicated to going over the new content.  The third weekly meeting, designated as the _lab_, is for working on the problem set. The lab problems are meant to be solved in class, during the lab. Myself and the LAs will be around to work with you, facilitate discussions and answer your questions. The labs are not graded. It is your responsibility to complete the lab problems and check in with us. 
 
 Here's the weekly timeline:
 
-  1. **Pre-view the lecture notes and take the pre-meeting check.**    Each week, _before coming to class_, your first task is to read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.   Each week, before coming to class, you need to take the pre-meeting check.  The pre-check is online and consists of a set of  easy multiple-choice questions; it covers very basic questions from the lecture. You need to take the pre-check before attending the first weekly meeting. The pre-checks are set so that you have 3 attempts and it will retain the highest score. It is open books and  no time limit.  
+  1. **Pre-view the lecture notes and take the pre-check.**    Each week, _before coming to class_, your first task is to read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.   Each week, before coming to class, you need to take the pre-check.  The pre-check is online and consists of a set of  easy multiple-choice questions; it covers very basic questions from the lecture. You need to take the pre-check before attending the first weekly meeting. The pre-checks are set so that you have 3 attempts and it will retain the highest score. It is open books and  no time limit.  
    
      * Time to budget: 2 hours 
            
@@ -58,11 +58,11 @@ Here's the weekly timeline:
  
      * Time to budget: 4.5 hours. 
 
-  3. **Review material and take the weekly quiz.** Review  the week's material, including lecture notes, slides, the lab problems and their solutions; use the self-study quizzes and the study questions to help evaluate your understanding. Drop in to  virtual office hours, help sessions/ study groups to get your questions answered. When you are ready, take the weekly quiz. 
+  3. **Review material and take the weekly quiz.** Review  the week's material, including lecture notes, slides, the lab problems and their solutions; use the self-study quizzes and the study questions to help evaluate your understanding. Drop in to office hours to get your questions answered. When you are ready, take the weekly quiz. 
     
      * Time to budget: 2-3 hours.  
 
-  4. Work on the current **assignment**. Work on the current assignment. 
+  4. Work on the current **assignment**. There will be a weekly assignment. 
    
       * Time to budget: 2 hours.   
  
@@ -74,21 +74,21 @@ The work for the class, throughout the semester, consists of:
 
 - __Pre-checks:__  There are a total of  12 pre-checks (approx. one per week). These checks are very easy, open books, unlimited time, 3 attempts; their goal is simply to help you stay on track (preview the notes before coming to class every week).
 
--  __Labs:__ There are a total of  15 labs (one every week). The weekly lab consist of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time,  working with a small group.  Labs are **not** graded.  
+-  __Labs:__ There are a total of  14 labs (one every week). The weekly lab consist of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time,  working with a small group.  Labs are **not** graded.  
     -  Don't be surprised if you'll find that most of your learning occurs while you work on the lab with your peers!
 
 - __Quizzes:__ There are a total of 14 quizzes (one per week). The quizzes are administered via Blackboard/Gradescope, and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week. Some of these quizzes will be in class, others will be take home.
 
-- __Assignments:__ There are a total of 7 assignments throughout the semester (one every two weeks). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
+- __Assignments:__ There are a total of 13 assignments throughout the semester (one every weeks). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
 
 - Exams: There are no exams. 
 
 
-The final grade will be computed based on the 12 pre-checks , 14 quizzes and 7 assignments as follows: 
+The final grade will be computed based on the  pre-checks, quizzes and  assignments as follows: 
 
-* Pre-checks:     10% (12 total,  drop 1 lowest)
+* Pre-checks:     5% 
 * Quizzes:        60%  (14 quizzes, drop 1 lowest)
-* Assignments:    30%  (7 assignments)
+* Assignments:    35%  (13 assignments)
 * Class engagement: tie breaker 
 
 
@@ -96,16 +96,16 @@ The final grade will be computed based on the 12 pre-checks , 14 quizzes and 7 a
 ### Time Commitment
 Preparing for weekly material will demand a significant time commitment, and it is critical that you budget your time accordingly.  You should expect to commit 10 hours a week to meet the expectations of the course, and perhaps 12 to excel. A tentative breakdown of the weekly time is provided above---- please budget 10-12 hours a week for this class.
 
-Some of you will put in more or less time than what I suggested above.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, take a look at the optional problems or just send me an email and I will be happy to provide additional problems.
+Some of you will put in more or less time than what I suggested above.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, take a look at the optional problems or just send me an email and I will happily provide additional problems.
 
 ### Flex days 
 To provide reasonable flexibility with deadlines, you are allotted __three flex days__ for the semester,  each of which may be used to submit an assignment or a quiz up to 24 hours late (up to 72 hours late if all three flex days are applied all at once).  For a team project, applying a flex day uses a flex day from each group member's allotment. Beyond the use of flex days, quizzes and assignments will not be accepted after the posted due date,unless alternate arrangements have been approved in advance of the deadline.  If you have an unusual situation that you forsee impacting your ability to meet a deadline, please let me know as soon as possible so that we can make a plan. 
 
 
 ### What you can expect from me: 
-My goal is to create a class that's similar to algorithms classes at peer institutions. For many of you, this is the first and last algorithm class you'll take; some of you will go on to software engineering careers; many of you will go at some point through technical interview. For all of these reasons it is important to pack as many topics as possible in the syllabus and expose you to many problems. 
+My goal is to create a class that's similar to algorithms classes at peer institutions. For many of you, this is the first and last algorithm class you'll take; some of you will go on to software engineering careers; many of you will go at some point through technical interview. For all of these reasons it is important to pack as many topics as possible in the syllabus and expose you to many problems. At the same time, less is more:  We'll take time in between topics and work on new problems. The goal is to be able to solve new problems, not just understand existing algorithms. 
 
-The  syllabus is packed and you will find the pace and the problems challenging. I often choose problems from the top R1 universities (such as Stanford, MIT, Berkeley, etc). To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, with solutions.
+The  syllabus is packed and you will find the pace and the problems ocasionally challenging. I often choose problems from the top R1 universities (such as Stanford, MIT, Berkeley, etc). To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, with solutions.
 
 Please don't hesitate to let me know if you have any significant circumstances that hinder your learning, and we will work together to make an alternate plan.   
 
