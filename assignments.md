@@ -5,7 +5,7 @@ nav_order: 6
 ---
 
 
-### Assignments 
+### Assignments (Spring'22)
 
 
 There will be a total of 13 assignments, roughly one every week.  
