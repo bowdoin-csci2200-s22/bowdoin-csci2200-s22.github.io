@@ -79,7 +79,7 @@ The work for the class, throughout the semester, consists of:
 
 - __Quizzes:__ There are a total of 14 quizzes (one per week). The quizzes are administered via Blackboard/Gradescope, and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week. Some of these quizzes will be in class, others will be take home.
 
-- __Assignments:__ There are a total of 13 assignments throughout the semester (one every weeks). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
+- __Assignments:__ There are a total of 10-13 assignments throughout the semester (approx. one every week). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
 
 - Exams: There are no exams. 
 
@@ -88,7 +88,7 @@ The final grade will be computed based on the  pre-checks, quizzes and  assignme
 
 * Pre-checks:     5% 
 * Quizzes:        60%  (14 quizzes, drop 1 lowest)
-* Assignments:    35%  (13 assignments)
+* Assignments:    35%  
 * Class engagement: tie breaker 
 
 
