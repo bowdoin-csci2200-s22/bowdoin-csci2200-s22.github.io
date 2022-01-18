@@ -103,7 +103,7 @@ To provide reasonable flexibility with deadlines, you are allotted __three flex 
 
 
 ### What you can expect from me: 
-My goal is to create a class that's similar to algorithms classes at peer institutions. For many of you, this is the first and last algorithm class you'll take; some of you will go on to software engineering careers; many of you will go at some point through technical interviews. For all of these reasons it is important to pack  many topics  in the syllabus and expose you to many new problems. At the same time, we'll take time in between topics to work on new problems. The goal of teh class is not only to be familiar with basic algorithms, but also be able to solve new problems. 
+My goal is to create a class that's similar to algorithms classes at peer institutions. For many of you, this is the first and last algorithm class you'll take; some of you will go on to software engineering careers; many of you will go at some point through technical interviews. For all of these reasons it is important to pack  many topics  in the syllabus and expose you to many new problems.  The goal of the class is not only to be familiar with basic algorithms, but also be able to solve new problems on your own. 
 
 The  syllabus is packed and you will find the pace and the problems ocasionally challenging. I often choose problems from the top R1 universities (such as Stanford, MIT, Berkeley, etc). To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, with solutions.
 
