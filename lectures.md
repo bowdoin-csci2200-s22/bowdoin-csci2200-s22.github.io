@@ -10,7 +10,7 @@ nav_order: 4
 
 ### Week 1: Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
 
-_Sept 1-3_
+_Jan 24-28_
 
 We start by reviewing two fundamental problems---searching and sorting---and going over a couple of simple algorithms. We also review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  You are probably familiar with most of this content from Data Structures (if this  content is new, you'll need to budget more time this first week to understand these new concepts). 
 
@@ -22,9 +22,9 @@ __Resources:__
   * __Lecture:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf) 
        * __Slides and videos:__    see Blackboard    
        * __Precheck:__  see Blackboard      
-  *  __Lab:__   [Lab 1](docs/week1-lab.pdf) (for sols see BB)
-  * __Quiz:__    Quiz1  see Blackboard 
-  * __Assignment:__ Assignment1 posted on Gradescope (due end of week 3, by Sunday 9/19)
+  *  __Lab:__   [Lab 1](docs/week1-lab.pdf)
+  * __Quiz:__    Quiz1  (on Blackboard)
+  * __Assignment:__ Assignment1 (on Gradescope, due end of week 1, Sunday 1/30, 11pm)
   
  ***
  
@@ -32,7 +32,7 @@ __Resources:__
  
 ### Week 2: Asymptotic Notation and Summations
 
-_Sept 6-10_
+_Jan 31- Feb 4_
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
 
@@ -60,9 +60,9 @@ __Resources:__
   * __Lecture:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
        * __Slides and videos:__ see Blackboard      
        * __Precheck:__  see Blackboard
-  * __Lab:__   [Lab2](docs/week2-lab.pdf) (for sols see BB)
+  * __Lab:__   [Lab2](docs/week2-lab.pdf) 
   * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   Quiz2: see Blackboard
-  * __Assignment:__ work on Assignment 1  
+  * __Assignment:__  Assignment 2 (on Gradescope, due end of week 2 by Sunday 2/6 at 11pm)
   
 ***
    
@@ -71,7 +71,7 @@ __Resources:__
    
    
 ### Week 3: Mergesort and Recurrences
-_Sept 13-17_
+_Feb 7-11_
 
 This week we continue with the topic of analysis and  introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence, we introduce a new sorting algorithm called Mergesort.  We express the running time of Mergesort   using a recurrence, which solves to O(n lg n).  Mergesort is the first algorithm we see in this class which beats the quadratic sorting algorithms from  previous lectures. 
 
@@ -85,18 +85,17 @@ __Resources:__
   * __Lecture:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
        * __Slides and videos:__    see Blackboard    
        * __Precheck:__  see Blackboard     
-  * __Lab:__   [Lab3](docs/week3-lab.pdf) (for sols see BB)
+  * __Lab:__   [Lab3](docs/week3-lab.pdf) 
   * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; Quiz3: see Blackboard
   * __Assignment:__
-     * Assignment 1 due end of this week (by Sunday 9/19)
-     * Assignment 2 posted on Gradescope (due end of week 4, by Sunday 9/26)
+         * Assignment 3 (on Gradescope, due end of week 3, by Sunday 2/13 at 11pm)
    
  ***
 
 
 
 ### Week 4: Heapsort and Quicksort
-_Sept 20-27_
+_Feb 14-18_
 
 So far we have discussed tools necessary for analyzing algorithms (asymptotic notation, summations and recurrences) and we have seen a couple of sorting algorithms at work. This week we introduce new sorting algorithms: Heapsort, Quicksort, and it's randomized version, Randomized-Quicksort. Heapsort is based on the heap, which is the standard implementation of a priority queue. Randomized-Quicksort is considered the most efficient general-purpose sorting algorithm in practice.
 
@@ -112,18 +111,17 @@ __Resources:__
 	* __Slides:__  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
 	* __Videos:__   see Blackboard  
 	* __Precheck:__  see Blackboard
-	* __Lab:__   [Lab4](docs/week4-lab.pdf) (for sols see Blackboard)
+	* __Lab:__   [Lab4](docs/week4-lab.pdf) 
 	* __Quiz:__      Quiz4 see Blackboard
 	* __Assignment:__
-     * Assignment 2  due end of this week (due by Sunday 9/26)
-     * Assignment 3  posted on Gradescopoe (due end of week 6 by Friday 10/8)
+  	     * Assignment 3  (on Gradescope, due end of week 4 on Sunday 2/20 at 11pm)
 
  ***
   
   
   
 ### Week 5: Sorting lower bound. Faster sorting. Selection. 
-_Sept 27-Oct 1_
+_Feb 21-25_
 
 We have seen the most important  sorting algorithms so far and all of them have worst-case running time at least Ω(n lg n). The natural question to ask is: Can we do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound, and show that sorting lower bound in the comparison model of computation is Ω(n lg n). We describe a couple of different ways to sort which do not use the comparison model and under certain assumptions achieve linear time (bucket sort and counting sort). This concludes the module on sorting. 
 
@@ -138,16 +136,16 @@ __Resources:__
   * __Lecture notes:__ [LN-linsort.pdf](docs/week5-LN-linsort.pdf), [LN-selection.pdf](docs/week5-LN-selection.pdf)
     * __Slides and videos:__    see Blackboard   
     * __Precheck:__  see Blackboard    
- * __Lab:__   [Lab5](docs/week5-lab.pdf) (for sols see BB)
+ * __Lab:__   [Lab5](docs/week5-lab.pdf) 
  * __Quiz:__      Quiz5 see Blackboard
- * __Assignment:__ Assignment 3  due end of next week (by Friday 10/8)
+ * __Assignment:__ Assignment 5 (on Gradescope,  due end of  week 5 by Sunday  2/17 at 11pm)
  *          
  ***
 
 
 
 ### Week 6: Problems 
-_Oct 4-8_
+_Feb 28-March 4_
 
 At this point  in the class   (1) you have the tools to analyze algorithms and you appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your initial ideas!);   and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.  One of the  goals of this  class is to provide the conceptual  tools for solving new problems on your own. This week we'll take a break from new content and work on  problem solving.  
 
@@ -164,18 +162,17 @@ __Resources:__
   * __Lecture notes:__ [python-mysterySort.ipynb](docs/week6-mysterySort.ipynb), [python-insertionSort.ipynb](docs/week6-insertionSort.ipynb), [python-mergeSort.ipynb](docs/week6-mergesort.ipynb), [python-quickSort.ipynb](docs/week6-quickSort.ipynb)
      * __Slides and videos:__    see Blackboard   
      * __Precheck:__  see Blackboard    
-  * __Lab:__   [Lab6](docs/week6-lab.pdf) (for sols see BB)
+  * __Lab:__   [Lab6](docs/week6-lab.pdf) 
   * __Quiz:__    Quiz6  see Blackboard
   * __Assignment:__
-      * Assignment 3  due end of this week (due by Friday 10/8)
-      * Assignment 4  posted on Gradescope (due end of week 9 by Friday 10/29)
+  	* Assignment 6 (on Gradescope, due end of week 6 by Sunday 3/6 at 11pm)
     
  ***
  
  
  
 ### Week 7: Divide-and-conquer
-_Oct 13-15 (note: fall break on 10/11, 10/12)_
+_March 7-11_
 
 What do you do when you encounter a new problem and you don't know how to start?  Coming up with solutions is both an art and a science, and although there are no recipes, there are some techniques that come up frequently.  By now you have some practice, and you perhaps noticed that some of the problems have similar solutions. We'll spend the next three weeks looking at more problems,  grouped by the technique used to solve them. 
 
@@ -190,10 +187,10 @@ __Resources:__
   * __Lecture notes:__ [LN-divideAndConquer.pdf](docs/week7-LN-divideAndConquer.pdf)
      * __Slides and videos:__    see Blackboard   
      * __Precheck:__  see Blackboard    
-  * __Lab:__   [Lab7](docs/week7-lab.pdf) (for sols see BB)
+  * __Lab:__   [Lab7](docs/week7-lab.pdf)
   * __Quiz:__      Quiz7 see Blackboard
   * __Assignment:__
-      * Assignment 4  due  by Friday 10/29)
+      * Assignment 7 (on Gradescope,  due after the break end of week 8,  by Sunday 4/3)
          
  ***
  
@@ -201,7 +198,7 @@ __Resources:__
 
 
 ### Week 8: Dynamic Programming 
-_Oct 18-22_
+_Mar 28 - Apr 1_
 
 This week we introduce the technique called _dynamic programming_ and see it at work on  three problems: board game, rod, and knapsak. 
 
@@ -214,10 +211,10 @@ __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [LN-knapsack.pdf](docs/week8-LN-knapsack.pdf)
     * __Slides and videos:__    see Blackboard   
     * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab8](docs/week8-lab.pdf) (for sols see BB)
+* __Lab:__   [Lab8](docs/week8-lab.pdf) 
 * __Quiz:__    Quiz8  see Blackboard
 * __Assignment:__
-    * Assignment 4  due next week by Friday 10/29  
+    * Assignment 7  due this week by Sunday 4/3  
    
   
  ***
@@ -225,7 +222,7 @@ __Resources:__
  
  
 ### Week 9: Greedy algorithms 
-_Oct 25-29_
+_Apr 4-8_
 
 This week we introduce the greedy technique via the _activity selection_ problem. 
 
@@ -238,11 +235,10 @@ __Resources:__
 * __Lecture notes:__ [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab9](docs/week9-lab.pdf) (for sols see BB)
+* __Lab:__   [Lab9](docs/week9-lab.pdf) 
 * __Quiz:__      Quiz9 see Blackboard     
 * __Assignment:__
-    * Assignment 4  due by Friday 10/29
-    * Assignment 5  posted on Gradescopoe (due end of week 11)
+    * Assignment 8 (on Gradescopoe , due end of week 9 by Sunday 4/10 at 11pm)
    
  ***
 
@@ -250,7 +246,7 @@ __Resources:__
 
 
 ### Week 10: 
-_Nov 1-5_
+_Apr 11-15_
 
 This week we'll wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing  a couple more examples of  these techniques at work. 
 
@@ -262,16 +258,16 @@ __Resources:__
 * __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf) ; [LN-review.pdf](docs/week10-LN-review.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab10](docs/week10-lab.pdf) (for sols see BB)
+* __Lab:__   [Lab10](docs/week10-lab.pdf) 
 * __Quiz:__   <del> Quiz10  (see Blackboard)</del>
-* __Assignment:__ Assignment 5  due this week (Sunday 11/7)
+* __Assignment:__ Assignment 9  (on Gradescope, due end of this week by Sunday 4/17)
 
 ***
 
 
 
 ### Week 11: Graphs: Basics, BFS and DFS
-_Nov 8-12_
+_Apr 18-22_
 
 We've reached the last module this semester, graphs. Once you learn about graphs, you start to see their applications  everywhere around!  This week we start with basic terminology and the traversals, breadth-first and depth-first. These simple algorithms are the stepping stone to many other problems. 
 
@@ -285,16 +281,16 @@ __Resources:__
 * __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-basics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab11](docs/week11-lab.pdf) (for sols see Blackboard)
+* __Lab:__   [Lab11](docs/week11-lab.pdf) 
 * __Quiz:__    Quiz11  (see Blackboard)
-* __Assignment:__ Assignment 6  due this week (Sunday 11/14)     
+* __Assignment:__ [Assignment 10](docs/hw10.pdf)  (on Gradescope, due this week by Sunday 4/24)     
 
 ***
  
  
  
 ### Week 12 :  Application of BFS and DFS. Topological order. Shortest paths on DAGs.  
-_Nov 15-19_
+_Apr 25-29_
 
 This week  we introduce the problem of a computing topological order on a directed acyclic graph (DAG).  Then we look at how  topological order can be used to solve various other problems on DAGs, including a simple algorithm for  computing shortest paths on a DAG. 
 
@@ -309,21 +305,17 @@ __Resources:__
 * __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard  
-* __Lab:__   [Lab12](docs/week12-lab.pdf) (for sols see Blackboard)  
+* __Lab:__   [Lab12](docs/week12-lab.pdf)  
 * __Quiz:__   Quiz12   (see Blackboard)  
-* __Assignment:__ [Assignment 7](docs/hw7.pdf)  due this week (Sunday 11/21, 11pm)
+* __Assignment:__ [Assignment 11](docs/hw11.pdf)  (on Gradescope, due this week by Sunday 5/1 at 11pm)
   
  ***
  
  
-### Week 13 : _Thanksgiving break 11/23-26_    
-
-
- ***
  
  
-### Week 14: Shortest paths. 
-_Nov 29-Dec 3_
+### Week 13: Shortest paths. 
+_May 2-6_
 
 This week we discuss computing shortest paths in graphs, and see some of the nicest algorithms in Computer's Science: Dijkstra's algorithm and Bellman-Ford's algorithm. While describing them we try to understand some common principles that guided their design.
 Bellman-Ford's algorithm uses dynamic programming and Dijkstra's algorithm is a greedy algorithm.   These are new applications of the problem solving techniques we discussed in the previous weeks! 
@@ -332,20 +324,19 @@ __Objectives:__ By the end of this  week you should be able to:
 * Understand the algorithms for computing shortest paths explained in the notes:  how they work, why they work, and their complexity
 
 __Resources:__
-* __Lecture notes:__ [LN-shpaths.pdf](docs/week14-LN-shpaths.pdf)
+* __Lecture notes:__ [LN-shpaths.pdf](docs/week13-LN-shpaths.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-*  __Lab:__   [Lab14](docs/week14-lab.pdf) (for sols see Blackboard)
-* __Quiz:__   Quiz14   (see Blackboard)    
-* __Assignment:__
-    * [Assignment 8](docs/hw8.pdf)  due end of this week 
+*  __Lab:__   [Lab13](docs/week13-lab.pdf) 
+* __Quiz:__   Quiz13   (see Blackboard)    
+* __Assignment:__ [Assignment 12](docs/hw12.pdf) (on Gradescope,  due end of this week on Sunday 5/8 at 11pm)
                    
  ***
  
  
  
-### Week 15: Minimum spanning tree. Final review. 
-_Dec 6-10_
+### Week 14: Minimum spanning tree. Final review. 
+_May 9-11_
 
 This final week we'll introduce  another fundamental problem on graphs, the Minimum Spanning Tree (MST). We'll see a couple of properties of MSTs which will get us intuition for how to compute an MST efficiently. We'll glance at two well-known algorithms, Prim's and Kruskal's,  which are both greedy algorithms much in the spirit of Dijkstra.  Their correctness follows from a neat result called The Cut Theorem.   
 
@@ -356,13 +347,12 @@ __Objectives:__ By the end of this  week you should be able to:
 * Know the general idea of Kruskal's and Prim's algorithms, and the Cut Theorem which captures their correctness
 
 __Resources:__
-* __Lecture notes:__ [LN-mst.pdf](docs/week15-LN-mst.pdf), [LN-mst-summary.pdf](docs/week15-LN-mst-summary.pdf), [LN-review.pdf](docs/week15-LN-review.pdf),
+* __Lecture notes:__ [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), [LN-review.pdf](docs/week14-LN-review.pdf),
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab15]  (for sols see Blackboard)
-* __Quiz:__   Quiz15   see Blackboard     
-* __Assignment:__
-    * Assignment 9  due end of this week 
+* __Lab:__   [Lab14](docs/week14-lab.pdf) 
+* __Quiz:__   Quiz14  (see Blackboard)     
+* __Assignment:__ [Assignment 13](docs/hw13.pdf) (on Gradescope,  due end of this week by Sunday 5/15)
                       
 ***
 
