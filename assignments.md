@@ -8,7 +8,7 @@ nav_order: 6
 ### Assignments 
 
 
-There will be a total of <del>7 assignments, roughly one assignment every two weeks. </del> Instead of one assignment containing 4 problems every two weeks, now there is one assignment containing two problems every week. Same number of problems but due weekly. 
+There will be a total of 13 assignments, roughly one every week.  
 
 The problems in the assignments have been carefully chosen in order to provide an opportunity to learn deeper.  Remember that one of the goals of the class is to provide the conceptual tools so that you can come up with _solutions to new problems on your own_. The assignments are working towards this goal.  Do not expect to sit down for an hour and solve everything at once (if you do, please let us know!). Instead, expect a process: read the problems, understand what they are asking, come up with initial ideas, figure out why they work or not, try to formulate questions, come up with improvements. The whole process is supposed to be interactive between you and your homework partner, your TAs, and myself. 
 
@@ -19,15 +19,19 @@ The problems in the assignments have been carefully chosen in order to provide a
 * __Gradescope.__ The assignments are posted on Gradescope, and you need to submit your solution using Gradescope. The team member who submits should add the other members to the "team" (team assignments have been enabled in Gradescope). Only submit one assignment per team. That is, only one member of the team should submit the assignment
 
 |:-------------|:---------------------|
-| [Assignment 1](/docs/hw1.pdf) | (due: end of Week 3) |
-| [Assignment 2](/docs/hw2.pdf) | (due: end of Week 4) |
-| [Assignment 3](/docs/hw3.pdf)| (due: end of Week 6) |
-| [Assignment 4](/docs/hw4.pdf) | (due: end of week 9) |
-| [Assignment 5](/docs/hw5.pdf) | (due: end of week 10) |
-| [Assignment 6](/docs/hw6.pdf) | (due: end of week 11) |
-| [Assignment 7](docs/hw7.pdf) | (due: end of week 12) |
-| [Assignment 8](docs/hw8.pdf) | (due: end of week 14) |
-| Assignment 9 | (due: end of week 15) |
+| [Assignment 1](/docs/hw1.pdf) | (due: end of Week 1) |
+| [Assignment 2](/docs/hw2.pdf) | (due: end of Week 2) |
+| [Assignment 3](/docs/hw3.pdf)| (due: end of Week 3) |
+| [Assignment 4](/docs/hw4.pdf) | (due: end of week 4) |
+| [Assignment 5](/docs/hw5.pdf) | (due: end of week 5) |
+| [Assignment 6](/docs/hw6.pdf) | (due: end of week 6) |
+| [Assignment 7](docs/hw7.pdf) | (due: end of week 8) |
+| [Assignment 8](docs/hw8.pdf) | (due: end of week 9) |
+| [Assignment 9](docs/hw9.pdf) | (due: end of week 10) |
+| [Assignment 10](docs/hw10.pdf) | (due: end of week 11) |
+| [Assignment 11](docs/hw11.pdf) | (due: end of week 12) |
+| [Assignment 12](docs/hw12.pdf) | (due: end of week 13) |
+| [Assignment 13](docs/hw13.pdf) | (due: end of week 14) |
 
 
 ### Assignment Guidelines
