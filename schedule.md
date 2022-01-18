@@ -12,6 +12,7 @@ nav_order: 3
 | Week 4, 5    |  February 14-25   | Efficient sorting and selection |
 | Week 6       |  February 28 - March 4      | Problems     |                 
 | Week 7       |  March 7-11  | Techniques (divide-and-conquer) | 
+| spring break|   | 
 | Week 8, 9    |  March 28 - April 8  | Techniques (dynamic programming, greedy)|          
 | Week 10      |  April 11-15  |  Problems    |                     
 | Week 11, 12  |  April 18 - 26 | Graphs  (BFS, DFS, top sort and DAGs)|
