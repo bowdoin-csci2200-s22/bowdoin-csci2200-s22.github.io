@@ -27,7 +27,7 @@ nav_order: 7
 | Week 5 | Feb 21-25                       | Precheck 5   (due: Mon 2/21)   | Quiz 5  (due: Sun 2/27) |
 | Week 6 | Feb 28-Mar 4                    | _no precheck_                  | Quiz 6  (in class on 3/4)|
 | Week 7 | Mar 7-11                        |  Precheck 7  (due: Mon 3/7)  | Quiz 7  (due: Sun 3/13)|
-| spring break |. |. | 
+|         | _spring break_                 |                              |                        | 
 | Week 8 | Mar 28-Apr 1                    |  Precheck  8 (due: Mon 3/28)   | Quiz 8  (due: Sun 4/3)|
 | Week 9 | Apr 4-8                         |  Precheck  9 (due: Mon 4/4)    | Quiz 9  (due: Sun 4/10)|
 | Week 10 | Apr 11-15                      | _no precheck_                  | Quiz 10 (in class? tbd)
