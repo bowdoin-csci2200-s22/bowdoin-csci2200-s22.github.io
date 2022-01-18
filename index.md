@@ -11,7 +11,9 @@ nav_order: 1
 
 *** 
 
-1/18:  Hi everyone, Welcome to Algorithms! We'll be meeting 3 x week,  MWF at 11:40am. 
+1/18:  
+
+Hi everyone, Welcome to Algorithms! We'll be meeting 3 x week,  MWF at 11:40am. 
 
 The first week of classes all 3 meetings will be via zoom.   
 
