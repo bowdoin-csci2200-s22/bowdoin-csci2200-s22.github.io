@@ -5,7 +5,9 @@ nav_order: 8
 ---
 
 
-### Office hours and Study groups 
+### Office hours and Study groups  (Spring'22)
+
+
 
 This semester we have an exceptional group of LAs who are all excited to get to know you and help you  on your algorithmic journey. 
 
