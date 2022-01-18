@@ -5,8 +5,8 @@ nav_order: 1
 ---
 
 
-
-## Algorithms (csci2200) Spring'22, Bowdoin College: Announcements 
+## Announcements 
+### Algorithms (csci2200) Spring'22, Bowdoin College
 
 
 *** 
