@@ -7,12 +7,13 @@ nav_order: 3
 ## Overall schedule 
 
 |:-------------|:------------------|:---------- |
-| Week 1       | September 1-3     | Introduction and review |                  
-| Week 2, 3    | September 6-17    | Analysis tools                  
-| Week 4, 5    | September 20 - October 1 | Efficient sorting and selection |
-| Week 6       | October 4 - 8     | Problems     |                 
-| Week 7, 8, 9 |  Ocober 13 - 29   | Techniques (divide-and-conquer, dynamic programming, greedy)|          
-| Week 10      | November 1 - 5    |  Problems    |                     
-| Week 11, 12, 13, 14, 15 | November 8 - December 10 | Graphs |
-
+| Week 1       |  January 24 - 28    | Introduction and review |                  
+| Week 2, 3    |  January 31 - February 11 | Analysis tools                  
+| Week 4, 5    |  February 14-25   | Efficient sorting and selection |
+| Week 6       |  February 28 - March 4      | Problems     |                 
+| Week 7       |  March 7-11  | Techniques (divide-and-conquer) | 
+| Week 8, 9    |  March 28 - April 8  | Techniques (dynamic programming, greedy)|          
+| Week 10      |  April 11-15  |  Problems    |                     
+| Week 11, 12  |  April 18 - 26 | Graphs  (BFS, DFS, top sort and DAGs)|
+| Week 13, 14  |  May 2 - 11 | Graphs (SP and MST)|
 
