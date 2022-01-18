@@ -255,7 +255,7 @@ __Resources:__
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab10](docs/week10-lab.pdf) 
-* __Quiz:__   <del> Quiz10  (see Blackboard)</del>
+* __Quiz:__   Quiz10 (in class) 
 * __Assignment:__ Assignment 9  (on Gradescope, due end of this week by Sunday 4/17)
 
 ***
