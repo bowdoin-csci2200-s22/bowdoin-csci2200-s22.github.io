@@ -347,7 +347,7 @@ __Resources:__
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab14](docs/week14-lab.pdf) 
-* __Quiz:__   Quiz14  (see Blackboard)     
+* __Quiz:__   Quiz14  (in class)     
 * __Assignment:__ [Assignment 13](docs/hw13.pdf) (on Gradescope,  due end of this week by Sunday 5/15)
                       
 ***
