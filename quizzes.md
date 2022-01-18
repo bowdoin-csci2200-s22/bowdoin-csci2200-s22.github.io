@@ -32,8 +32,8 @@ nav_order: 7
 | Week 9 | Apr 4-8                         |  Precheck  9 (due: Mon 4/4)    | Quiz 9  (due: Sun 4/10)|
 | Week 10 | Apr 11-15                      | _no precheck_                  | Quiz 10 (in class? tbd)
 | Week 11 | Apr 18-22                      | Precheck  11  (due: Mon 4/18)  | Quiz 11 (due Sun 4/24) |
-| Week 12 | Apr 25-May 1                   | Precheck  12  (due: Mon 4/25)  | Quiz 12 (due Sun 5/1) |
-| Week 13 | May 4-8                        | Precheck 13 (due: Mon 5/4 )   | Quiz 13 (due Sun 5/8)  |
+| Week 12 | Apr 25-29                      | Precheck  12  (due: Mon 4/25)  | Quiz 12 (due Sun 5/1) |
+| Week 13 | May 2-6                        | Precheck 13 (due: Mon 5/2 )   | Quiz 13 (due Sun 5/8)  |
 | Week 14 | May 9-11                       | Precheck  14  (due: Mon 5/9)   | Quiz 14 (in class, tbd) |
 
 
