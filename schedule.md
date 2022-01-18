@@ -4,7 +4,7 @@ title: Schedule
 nav_order: 3
 ---
 
-## Overall schedule 
+## Overall schedule (Spring '22)
 
 |:-------------|:------------------|:---------- |
 | Week 1       |  January 24 - 28    | Introduction and review |                  
