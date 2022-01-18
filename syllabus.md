@@ -5,7 +5,8 @@ nav_order: 2
 ---
 
 
-## Algorithms (csci 2200), Spring'22, Bowdoin College 
+## Syllabus 
+### Algorithms (csci 2200), Spring'22, Bowdoin College 
 
 
 **Instructor:** Laura Toma 
