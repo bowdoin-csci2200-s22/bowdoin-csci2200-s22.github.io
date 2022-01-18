@@ -18,7 +18,7 @@ The weekly lab consists of a problem set focused on the topics discussed that we
 | Week 7 (divide-and-conquer):   |[Lab 7](docs/week7-lab.pdf)  
 | Week 8 (dynamic programming): |   [Lab 8](docs/week8-lab.pdf)   
 | Week 9 (greedy): |  [Lab 9](docs/week9-lab.pdf)   
-| Week 10 (problems: | [Lab 10](docs/week10-lab.pdf)  
+| Week 10 (problems): | [Lab 10](docs/week10-lab.pdf)  
 | Week 11 (graphs):  | [Lab 11](docs/week11-lab.pdf)  
 | Week 12 (graphs):  | [Lab 12](docs/week12-lab.pdf)   
 | Week 13 (graphs):  | [Lab 13](docs/week14-lab.pdf)   
