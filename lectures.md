@@ -24,7 +24,7 @@ __Resources:__
        * __Precheck:__  see Blackboard      
   *  __Lab:__   [Lab 1](docs/week1-lab.pdf)
   * __Quiz:__    Quiz1  (on Blackboard)
-  * __Assignment:__ Assignment1 (on Gradescope, due end of week 1, Sunday 1/30, 11pm)
+  * __Assignment:__ Assignment1 (on Gradescope, due end of this week on Sunday 1/30 at 11pm)
   
  ***
  
@@ -62,7 +62,7 @@ __Resources:__
        * __Precheck:__  see Blackboard
   * __Lab:__   [Lab2](docs/week2-lab.pdf) 
   * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   Quiz2: see Blackboard
-  * __Assignment:__  Assignment 2 (on Gradescope, due end of week 2 by Sunday 2/6 at 11pm)
+  * __Assignment:__  Assignment 2 (on Gradescope, due end of this week on Sunday 2/6 at 11pm)
   
 ***
    
@@ -87,8 +87,7 @@ __Resources:__
        * __Precheck:__  see Blackboard     
   * __Lab:__   [Lab3](docs/week3-lab.pdf) 
   * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; Quiz3: see Blackboard
-  * __Assignment:__
-         * Assignment 3 (on Gradescope, due end of week 3, by Sunday 2/13 at 11pm)
+  * __Assignment:__ Assignment 3 (on Gradescope, due end of this week on Sunday 2/13 at 11pm)
    
  ***
 
@@ -113,8 +112,7 @@ __Resources:__
 	* __Precheck:__  see Blackboard
 	* __Lab:__   [Lab4](docs/week4-lab.pdf) 
 	* __Quiz:__      Quiz4 see Blackboard
-	* __Assignment:__
-  	     * Assignment 3  (on Gradescope, due end of week 4 on Sunday 2/20 at 11pm)
+	* __Assignment:__ Assignment 3  (on Gradescope, due end of this week on Sunday 2/20 at 11pm)
 
  ***
   
@@ -138,7 +136,7 @@ __Resources:__
     * __Precheck:__  see Blackboard    
  * __Lab:__   [Lab5](docs/week5-lab.pdf) 
  * __Quiz:__      Quiz5 see Blackboard
- * __Assignment:__ Assignment 5 (on Gradescope,  due end of  week 5 by Sunday  2/17 at 11pm)
+ * __Assignment:__ Assignment 5 (on Gradescope,  due end of this week  by Sunday  2/17 at 11pm)
  *          
  ***
 
@@ -164,8 +162,7 @@ __Resources:__
      * __Precheck:__  see Blackboard    
   * __Lab:__   [Lab6](docs/week6-lab.pdf) 
   * __Quiz:__    Quiz6  see Blackboard
-  * __Assignment:__
-  	* Assignment 6 (on Gradescope, due end of week 6 by Sunday 3/6 at 11pm)
+  * __Assignment:__. Assignment 6 (on Gradescope, due end of this week by Sunday 3/6 at 11pm)
     
  ***
  
@@ -189,13 +186,13 @@ __Resources:__
      * __Precheck:__  see Blackboard    
   * __Lab:__   [Lab7](docs/week7-lab.pdf)
   * __Quiz:__      Quiz7 see Blackboard
-  * __Assignment:__
-      * Assignment 7 (on Gradescope,  due after the break end of week 8,  by Sunday 4/3)
+  * __Assignment:__ Assignment 7 (on Gradescope,  due after the break = end of week 8,  by Sunday 4/3)
          
  ***
  
+## Spring break!
 
-
+***
 
 ### Week 8: Dynamic Programming 
 _Mar 28 - Apr 1_
@@ -213,8 +210,7 @@ __Resources:__
     * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab8](docs/week8-lab.pdf) 
 * __Quiz:__    Quiz8  see Blackboard
-* __Assignment:__
-    * Assignment 7  due this week by Sunday 4/3  
+* __Assignment:__ Assignment 7  (on Gradescope, due this week by Sunday 4/3)
    
   
  ***
@@ -238,7 +234,7 @@ __Resources:__
 * __Lab:__   [Lab9](docs/week9-lab.pdf) 
 * __Quiz:__      Quiz9 see Blackboard     
 * __Assignment:__
-    * Assignment 8 (on Gradescopoe , due end of week 9 by Sunday 4/10 at 11pm)
+    * Assignment 8 (on Gradescopoe , due end of this week by Sunday 4/10 at 11pm)
    
  ***
 
@@ -283,7 +279,7 @@ __Resources:__
    * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab11](docs/week11-lab.pdf) 
 * __Quiz:__    Quiz11  (see Blackboard)
-* __Assignment:__ [Assignment 10](docs/hw10.pdf)  (on Gradescope, due this week by Sunday 4/24)     
+* __Assignment:__ [Assignment 10](docs/hw10.pdf)  (on Gradescope, due end of this week by Sunday 4/24)     
 
 ***
  
@@ -307,7 +303,7 @@ __Resources:__
    * __Precheck:__  see Blackboard  
 * __Lab:__   [Lab12](docs/week12-lab.pdf)  
 * __Quiz:__   Quiz12   (see Blackboard)  
-* __Assignment:__ [Assignment 11](docs/hw11.pdf)  (on Gradescope, due this week by Sunday 5/1 at 11pm)
+* __Assignment:__ [Assignment 11](docs/hw11.pdf)  (on Gradescope, due end of this week by Sunday 5/1 at 11pm)
   
  ***
  
