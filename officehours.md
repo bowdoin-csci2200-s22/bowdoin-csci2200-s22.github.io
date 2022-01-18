@@ -7,28 +7,28 @@ nav_order: 8
 
 ### Office hours and Study groups 
 
-This semester we have an exceptional group of LAs who are all excited to get to know you and help you out on your algorithmic journey. 
+This semester we have an exceptional group of LAs who are all excited to get to know you and help you  on your algorithmic journey. 
 
- * Lily SMith  
- * Nothando Khumalo 
- * Juan Atehortua 
+ * Cedric Blaise 
  * Zane Bookbinder
- * Nhi Nguyen 
+ * Tony Liu 
+ * Alex Racape 
+ * Lily Smith  
+ * tbd 
 
 
-
-In addition to the weekly lab we will provide **office hours/study groups** as follows. 
+The LAs will support the weekly labs and hold office hours to support the assignments and quizzes. 
+The weekly schedule **office hours/study groups**  is as follows. 
 
 
 |              |   Time  & location     | Who  |
 |:-------------|:-------------|:---------------|
-| Sundays      | 4-6pm, Searles 224  | Zane |
-| Mondays      | 3-4pm, Searles 219  | Laura  |
+| Sundays      |   |  |
+| Mondays      |  |   |
 | Tuesdays     | -  | -  |
-| Wednesdays   | 3-4pm, Searles 219  | Laura  |
+| Wednesdays   |  |   |
 | Thursdays    | -  | -  |
-| Fridays    | ~~1-3pm~~, 12-2pm, either Searles 219 or by zoom  | Laura  |
-| Saturdays    | 6-8pm, Searles 224  | Lily  |
+| Fridays    | |   |
+| Saturdays    |  |   |
 
 
-Zoom link for the class:  find link in Blackboard 
