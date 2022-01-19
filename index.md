@@ -14,7 +14,7 @@ Hi everyone, Welcome to Algorithms! We'll be meeting 3 x week,  MWF at 11:40am.
 
 The first week of classes all 3 meetings will be via __zoom__.   
 
-Below is my zoom room.  This is the zoom link we'll use for all zoom meetings throughout the semester (e.g. classes, office hours).  
+This is the zoom link we'll use for all zoom meetings throughout the semester (e.g. classes, office hours).  I have disabled the waiting room, but you need to authenticate with your bowdoin account in order to join. 
 
 [https://bowdoin.zoom.us/j/95265450964?pwd=TG5PeUhJQ3ZNRjdCMHhUT05nYUdMZz09](https://bowdoin.zoom.us/j/95265450964?pwd=TG5PeUhJQ3ZNRjdCMHhUT05nYUdMZz09)
 
