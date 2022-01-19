@@ -16,7 +16,11 @@ The first week of classes all 3 meetings will be via __zoom__.
 
 Below is my zoom room.  This is the zoom link we'll use for all zoom meetings throughout the semester (e.g. classes, office hours).  
 
-[https://bowdoin.zoom.us/j/8024276229?pwd=dUpVY29HdXZFWFpIZWVNV3l3SEluQT09](https://bowdoin.zoom.us/j/8024276229?pwd=dUpVY29HdXZFWFpIZWVNV3l3SEluQT09)
+[https://bowdoin.zoom.us/j/95265450964?pwd=TG5PeUhJQ3ZNRjdCMHhUT05nYUdMZz09](https://bowdoin.zoom.us/j/95265450964?pwd=TG5PeUhJQ3ZNRjdCMHhUT05nYUdMZz09)
+
+Meeting ID: 952 6545 0964
+Passcode: 270550
+
 
 ***
 
