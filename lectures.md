@@ -22,7 +22,7 @@ __Resources:__
   * __Lecture:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf) 
        * __Slides and videos:__    see Blackboard    
        * __Precheck:__  see Blackboard      
-  *  __Lab:__   [Lab 1](docs/week1-lab.pdf)
+  *  __Lab:__   [Lab 1](docs/lab1.pdf)
   * __Quiz:__    Quiz1  (on Blackboard)
   * __Assignment:__ Assignment1 (on Gradescope, due end of this week on Sunday 1/30 at 11pm)
   
@@ -60,7 +60,7 @@ __Resources:__
   * __Lecture:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
        * __Slides and videos:__ see Blackboard      
        * __Precheck:__  see Blackboard
-  * __Lab:__   [Lab2](docs/week2-lab.pdf) 
+  * __Lab:__   [Lab2](docs/lab2.pdf) 
   * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   Quiz2: see Blackboard
   * __Assignment:__  Assignment 2 (on Gradescope, due end of this week on Sunday 2/6 at 11pm)
   
@@ -85,7 +85,7 @@ __Resources:__
   * __Lecture:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
        * __Slides and videos:__    see Blackboard    
        * __Precheck:__  see Blackboard     
-  * __Lab:__   [Lab3](docs/week3-lab.pdf) 
+  * __Lab:__   [Lab3](docs/lab3.pdf) 
   * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; Quiz3: see Blackboard
   * __Assignment:__ Assignment 3 (on Gradescope, due end of this week on Sunday 2/13 at 11pm)
    
@@ -110,9 +110,9 @@ __Resources:__
 	* __Slides:__  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
 	* __Videos:__   see Blackboard  
 	* __Precheck:__  see Blackboard
-	* __Lab:__   [Lab4](docs/week4-lab.pdf) 
+	* __Lab:__   [Lab4](docs/lab4.pdf) 
 	* __Quiz:__      Quiz4 see Blackboard
-	* __Assignment:__ Assignment 3  (on Gradescope, due end of this week on Sunday 2/20 at 11pm)
+	* __Assignment:__ Assignment 4  (on Gradescope, due end of this week on Sunday 2/20 at 11pm)
 
  ***
   
@@ -134,7 +134,7 @@ __Resources:__
   * __Lecture notes:__ [LN-linsort.pdf](docs/week5-LN-linsort.pdf), [LN-selection.pdf](docs/week5-LN-selection.pdf)
     * __Slides and videos:__    see Blackboard   
     * __Precheck:__  see Blackboard    
- * __Lab:__   [Lab5](docs/week5-lab.pdf) 
+ * __Lab:__   [Lab5](docs/lab5.pdf) 
  * __Quiz:__      Quiz5 see Blackboard
  * __Assignment:__ Assignment 5 (on Gradescope,  due end of this week  by Sunday  2/17 at 11pm)
  *          
@@ -160,7 +160,7 @@ __Resources:__
   * __Lecture notes:__ [python-mysterySort.ipynb](docs/week6-mysterySort.ipynb), [python-insertionSort.ipynb](docs/week6-insertionSort.ipynb), [python-mergeSort.ipynb](docs/week6-mergesort.ipynb), [python-quickSort.ipynb](docs/week6-quickSort.ipynb)
      * __Slides and videos:__    see Blackboard   
      * __Precheck:__  see Blackboard    
-  * __Lab:__   [Lab6](docs/week6-lab.pdf) 
+  * __Lab:__   [Lab6](docs/lab6.pdf) 
   * __Quiz:__    Quiz6  see Blackboard
   * __Assignment:__. Assignment 6 (on Gradescope, due end of this week by Sunday 3/6 at 11pm)
     
@@ -184,7 +184,7 @@ __Resources:__
   * __Lecture notes:__ [LN-divideAndConquer.pdf](docs/week7-LN-divideAndConquer.pdf)
      * __Slides and videos:__    see Blackboard   
      * __Precheck:__  see Blackboard    
-  * __Lab:__   [Lab7](docs/week7-lab.pdf)
+  * __Lab:__   [Lab7](docs/lab7.pdf)
   * __Quiz:__      Quiz7 see Blackboard
   * __Assignment:__ Assignment 7 (on Gradescope,  due after the break = end of week 8,  by Sunday 4/3)
          
@@ -208,7 +208,7 @@ __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [LN-knapsack.pdf](docs/week8-LN-knapsack.pdf)
     * __Slides and videos:__    see Blackboard   
     * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab8](docs/week8-lab.pdf) 
+* __Lab:__   [Lab8](docs/lab8.pdf) 
 * __Quiz:__    Quiz8  see Blackboard
 * __Assignment:__ Assignment 7  (on Gradescope, due this week by Sunday 4/3)
    
@@ -231,7 +231,7 @@ __Resources:__
 * __Lecture notes:__ [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab9](docs/week9-lab.pdf) 
+* __Lab:__   [Lab9](docs/lab9.pdf) 
 * __Quiz:__      Quiz9 see Blackboard     
 * __Assignment:__
     * Assignment 8 (on Gradescopoe , due end of this week by Sunday 4/10 at 11pm)
@@ -254,7 +254,7 @@ __Resources:__
 * __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf) ; [LN-review.pdf](docs/week10-LN-review.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab10](docs/week10-lab.pdf) 
+* __Lab:__   [Lab10](docs/lab10.pdf) 
 * __Quiz:__   Quiz10 (in class) 
 * __Assignment:__ Assignment 9  (on Gradescope, due end of this week by Sunday 4/17)
 
@@ -277,7 +277,7 @@ __Resources:__
 * __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-basics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab11](docs/week11-lab.pdf) 
+* __Lab:__   [Lab11](docs/lab11.pdf) 
 * __Quiz:__    Quiz11  (see Blackboard)
 * __Assignment:__ [Assignment 10](docs/hw10.pdf)  (on Gradescope, due end of this week by Sunday 4/24)     
 
@@ -301,7 +301,7 @@ __Resources:__
 * __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard  
-* __Lab:__   [Lab12](docs/week12-lab.pdf)  
+* __Lab:__   [Lab12](docs/lab12.pdf)  
 * __Quiz:__   Quiz12   (see Blackboard)  
 * __Assignment:__ [Assignment 11](docs/hw11.pdf)  (on Gradescope, due end of this week by Sunday 5/1 at 11pm)
   
@@ -323,7 +323,7 @@ __Resources:__
 * __Lecture notes:__ [LN-shpaths.pdf](docs/week13-LN-shpaths.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-*  __Lab:__   [Lab13](docs/week13-lab.pdf) 
+*  __Lab:__   [Lab13](docs/lab13.pdf) 
 * __Quiz:__   Quiz13   (see Blackboard)    
 * __Assignment:__ [Assignment 12](docs/hw12.pdf) (on Gradescope,  due end of this week on Sunday 5/8 at 11pm)
                    
@@ -346,7 +346,7 @@ __Resources:__
 * __Lecture notes:__ [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), [LN-review.pdf](docs/week14-LN-review.pdf),
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
-* __Lab:__   [Lab14](docs/week14-lab.pdf) 
+* __Lab:__   [Lab14](docs/lab14.pdf) 
 * __Quiz:__   Quiz14  (in class)     
 * __Assignment:__ [Assignment 13](docs/hw13.pdf) (on Gradescope,  due end of this week by Sunday 5/15)
                       
