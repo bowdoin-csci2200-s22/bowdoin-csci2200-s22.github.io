@@ -19,20 +19,20 @@ The problems in the assignments have been carefully chosen in order to provide a
 * __Gradescope.__ The assignments are posted on Gradescope, and you need to submit your solution using Gradescope. The team member who submits should add the other members to the "team" (team assignments have been enabled in Gradescope). Only submit one assignment per team. That is, only one member of the team should submit the assignment
 
 |:-------------|:---------------------|
-| [Assignment 1](/docs/hw1.pdf) | (due: end of Week 1) |
-| [Assignment 2](/docs/hw2.pdf) | (due: end of Week 2) |
-| [Assignment 3](/docs/hw3.pdf)| (due: end of Week 3) |
-| [Assignment 4](/docs/hw4.pdf) | (due: end of week 4) |
-| [Assignment 5](/docs/hw5.pdf) | (due: end of week 5) |
-| [Assignment 6](/docs/hw6.pdf) | (due: end of week 6) |
+| [Assignment 1](/docs/hw1.pdf) | (assigned: Week 1, due: end of Week 2) |
+| [Assignment 2](/docs/hw2.pdf) | (assigned: Week 2, due: end of Week 3) |
+| [Assignment 3](/docs/hw3.pdf)| (assigned: Week 2, due: end of Week 4 |
+| [Assignment 4](/docs/hw4.pdf) | (assigned: Week 3, due: end of Week 5) |
+| [Assignment 5](/docs/hw5.pdf) | (assigned: Week 4, due: end of Week 6) |
+| [Assignment 6](/docs/hw6.pdf) |(assigned: Week 5, due: end of Week 7) |
 |                               | _spring break_ |
-| [Assignment 7](docs/hw7.pdf) | (due: end of week 8) |
-| [Assignment 8](docs/hw8.pdf) | (due: end of week 9) |
-| [Assignment 9](docs/hw9.pdf) | (due: end of week 10) |
-| [Assignment 10](docs/hw10.pdf) | (due: end of week 11) |
-| [Assignment 11](docs/hw11.pdf) | (due: end of week 12) |
-| [Assignment 12](docs/hw12.pdf) | (due: end of week 13) |
-| [Assignment 13](docs/hw13.pdf) | (due: end of week 14) |
+| [Assignment 7](docs/hw7.pdf) | (assigned: Week 6, due: end of Week 8) |
+| [Assignment 8](docs/hw8.pdf) | (assigned: Week 7, due: end of Week 9) |
+| [Assignment 9](docs/hw9.pdf) | (assigned: Week 8, due: end of Week 10)|
+| [Assignment 10](docs/hw10.pdf) | (assigned: Week 9, due: end of Week 11) |
+| [Assignment 11](docs/hw11.pdf) | (assigned: Week 10, due: end of Week 12)|
+| [Assignment 12](docs/hw12.pdf) | (assigned: Week 11, due: end of Week 13) |
+| [Assignment 13](docs/hw13.pdf) | (assigned: Week 12, due: end of Week 14)|
 
 
 ### Assignment Guidelines

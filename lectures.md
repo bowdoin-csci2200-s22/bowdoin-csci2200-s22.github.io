@@ -348,7 +348,7 @@ __Resources:__
    * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab14](docs/lab14.pdf) 
 * __Quiz:__   Quiz14  (in class)     
-* __Assignment:__ [Assignment 14](docs/hw14.pdf) (on Gradescope)
+* __Assignment:__  _none_
                       
 ***
 
