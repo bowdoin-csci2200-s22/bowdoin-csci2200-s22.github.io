@@ -16,7 +16,7 @@ nav_order: 7
 
 *  __Prechecks:__ The prechecks are __open__ book/notes, so you may consult your book/notes (but not www) 
 
-* __Quizzes:__ The quizzes are __closed__ book and notes; you may __not__ consult any resource that may give you a hint on how to go about solving the problems. 
+* __Quizzes:__ The quizzes are __closed__ book and notes; you may __not__ consult any resource that may give you a hint on how to solve the problems.  At the moment quizzes are on Blackboard.
 
 
 |:-------|:--------------------------------|:-------------------------------| ------------------------|

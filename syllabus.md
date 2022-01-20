@@ -54,40 +54,40 @@ Here's the weekly timeline:
    
      * Time to budget: 2 hours 
            
-  2. **Attend the 3 weekly meetings.** Come to class, work with your peers, and get your questions answered.  The pace of the in-class presentation will be fast since everyone will be familiar with the content. This will leave more time to work on problems! Answers to the lab will be posted at the end of the lab. 
+  2. **Attend the 3 weekly meetings.** Come to class, listen to in-depth presentation, get your questions answered and work with your peers.  The pace of thelectures  will be fast since everyone will be somewhat  familiar with the content. This will leave more time to work on problems! Answers to the lab will be posted at the end of the lab. 
  
      * Time to budget: 4.5 hours. 
 
-  3. **Review material and take the weekly quiz.** Review  the week's material, including lecture notes, slides, the lab problems and their solutions; use the self-study quizzes and the study questions to help evaluate your understanding. Drop in to office hours to get your questions answered. When you are ready, take the weekly quiz. 
-    
-     * Time to budget: 2-3 hours.  
-
-  4. Work on the current **assignment**. There will be a weekly assignment. 
+  
+  3. Work on the current **assignment**. There will be a weekly assignment.  Drop in to office hours to get your questions answered.
    
       * Time to budget: 2 hours.   
  
-  
+  4. **Review material and take the weekly quiz.** Review  the week's material, including lecture notes, slides, the lab problems and their solutions; use the self-study quizzes and the study questions to help evaluate your understanding. When you are ready, take the weekly quiz. 
+    
+     * Time to budget: 2-3 hours.  
+
   
 ### Work and Grading Policy 
 
 The work for the class, throughout the semester, consists of:  
 
-- __Pre-checks:__  There are a total of  12 pre-checks (approx. one per week). These checks are very easy, open books, unlimited time, 3 attempts; their goal is simply to help you stay on track (preview the notes before coming to class every week).
+- __Pre-checks:__  There are a total of  approx. 12 pre-checks (approx. one per week). These checks are very easy, open books, unlimited time, 3 attempts; their goal is simply to help you stay on track (preview the notes before coming to class every week).
 
--  __Labs:__ There are a total of  14 labs (one every week). The weekly lab consist of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time,  working with a small group.  Labs are **not** graded.  
+-  __Labs:__ There are a total of  14 labs (one every week). The weekly lab consist of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time,  working with a small group.  Labs are **not** graded.   However if you want solutions, you'll first need to send your work (the work won't be graded for correctness, but it needs to show effort).
     -  Don't be surprised if you'll find that most of your learning occurs while you work on the lab with your peers!
 
-- __Quizzes:__ There are a total of 14 quizzes (one per week). The quizzes are administered via Blackboard/Gradescope, and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week. Some of these quizzes will be in class, others will be take home.
+- __Quizzes:__ There are a total of 14 quizzes (one per week). The quizzes are administered at this time via Blackboard (though the plan is to move them to Gradescope in the future), and are  a combination of multiple-choice and short answer questions. Expect them to be short and focused on the specific topic discussed that week. Some of these quizzes will be in class, others will be take home.
 
-- __Assignments:__ There are a total of 10-13 assignments throughout the semester (approx. one every week). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
+- __Assignments:__ There are a total of 10-14 assignments throughout the semester (approx. one every week). Each assignment consists of O(1)  problems for which you will be asked to come up with efficient algorithms. Expect the problems in the assignments to be hard, but fun. 
 
-- Exams: There are no exams. 
+- Exams: There are no exams (other than the quizzes). 
 
 
 The final grade will be computed based on the  pre-checks, quizzes and  assignments as follows: 
 
 * Pre-checks:     5% 
-* Quizzes:        60%  (14 quizzes, drop 1 lowest)
+* Quizzes:        60%  (all quizzes weighed equally, drop 1 lowest)
 * Assignments:    35%  
 * Class engagement: tie breaker 
 
@@ -103,9 +103,9 @@ To provide reasonable flexibility with deadlines, you are allotted __three flex 
 
 
 ### What you can expect from me: 
-My goal is to create a class that's similar to algorithms classes at peer institutions. For many of you, this is the first and last algorithm class you'll take; some of you will go on to software engineering careers; many of you will go at some point through technical interviews. For all of these reasons it is important to pack  many topics  in the syllabus and expose you to many new problems.  The goal of the class is not only to be familiar with basic algorithms, but also be able to solve new problems on your own. 
+My goal is to create a class that's similar to algorithms classes at peer institutions. For many of you, this is the first and last algorithm class you'll take; some of you will go on to software engineering careers; many of you will go at some point through technical interviews. For all of these reasons it is important to pack  many topics  in the syllabus and expose you to many new problems.  The goal of the class is not only to  familiarize with basic algorithms, but also to be able to solve new problems on your own. 
 
-The  syllabus is packed and you will find the pace and the problems ocasionally challenging. I often choose problems from the top R1 universities (such as Stanford, MIT, Berkeley, etc). To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, with solutions.
+The  syllabus is packed and you will find the pace and the problems ocasionally challenging. I often choose problems from the top R1 universities (such as Stanford, MIT, Berkeley, etc). To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, many with solutions.
 
 Please don't hesitate to let me know if you have any significant circumstances that hinder your learning, and we will work together to make an alternate plan.   
 
