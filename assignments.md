@@ -21,18 +21,18 @@ The problems in the assignments have been carefully chosen in order to provide a
 |:-------------|:---------------------|
 | [Assignment 1](/docs/hw1.pdf) | (assigned: Week 1, due: end of Week 2) |
 | [Assignment 2](/docs/hw2.pdf) | (assigned: Week 2, due: end of Week 3) |
-| [Assignment 3](/docs/hw3.pdf)| (assigned: Week 2, due: end of Week 4 |
-| [Assignment 4](/docs/hw4.pdf) | (assigned: Week 3, due: end of Week 5) |
-| [Assignment 5](/docs/hw5.pdf) | (assigned: Week 4, due: end of Week 6) |
-| [Assignment 6](/docs/hw6.pdf) |(assigned: Week 5, due: end of Week 7) |
+| [Assignment 3](/docs/hw3.pdf)| (assigned: Week 3, due: end of Week 4 |
+| [Assignment 4](/docs/hw4.pdf) | (assigned: Week 4, due: end of Week 5) |
+| [Assignment 5](/docs/hw5.pdf) | (assigned: Week 5, due: end of Week 6) |
+| [Assignment 6](/docs/hw6.pdf) |(assigned: Week 6, due: end of Week 7) |
 |                               | _spring break_ |
-| [Assignment 7](docs/hw7.pdf) | (assigned: Week 6, due: end of Week 8) |
-| [Assignment 8](docs/hw8.pdf) | (assigned: Week 7, due: end of Week 9) |
-| [Assignment 9](docs/hw9.pdf) | (assigned: Week 8, due: end of Week 10)|
-| [Assignment 10](docs/hw10.pdf) | (assigned: Week 9, due: end of Week 11) |
-| [Assignment 11](docs/hw11.pdf) | (assigned: Week 10, due: end of Week 12)|
-| [Assignment 12](docs/hw12.pdf) | (assigned: Week 11, due: end of Week 13) |
-| [Assignment 13](docs/hw13.pdf) | (assigned: Week 12, due: end of Week 14)|
+| [Assignment 7](docs/hw7.pdf) | (assigned: Week 7, due: end of Week 8) |
+| [Assignment 8](docs/hw8.pdf) | (assigned: Week 8, due: end of Week 9) |
+| [Assignment 9](docs/hw9.pdf) | (assigned: Week 9, due: end of Week 10)|
+| [Assignment 10](docs/hw10.pdf) | (assigned: Week10, due: end of Week 11) |
+| [Assignment 11](docs/hw11.pdf) | (assigned: Week 11, due: end of Week 12)|
+| [Assignment 12](docs/hw12.pdf) | (assigned: Week 12, due: end of Week 13) |
+| [Assignment 13](docs/hw13.pdf) | (assigned: Week 13, due: end of Week 14)|
 
 
 ### Assignment Guidelines
