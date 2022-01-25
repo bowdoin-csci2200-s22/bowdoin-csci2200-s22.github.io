@@ -9,7 +9,7 @@ nav_order: 5
 The weekly lab consists of a problem set focused on the topics discussed that week. The lab problems are meant to be finished in class, during the designated lab time, working with a small group. Labs are __not__ graded. Solutions are provided to support learning at your own pace.  Don’t be surprised if you’ll find that most of your learning occurs while you work on the lab with your peers! That is precisely the goal!
 
 
-| Week 1 (intro):  | [Lab 1](docs/docs/lab1.pdf)  
+| Week 1 (intro):  | [Lab 1](docs/lab1.pdf)  
 | Week 2 (asymptotic analysis):|  [Lab 2](docs/lab2.pdf) 
 | Week 3 (recurrences and mergesort):  | [Lab 3](docs/lab3.pdf)   
 | Week 4 (heapsort and quicksort): |   [Lab 4](docs/lab4.pdf)   
