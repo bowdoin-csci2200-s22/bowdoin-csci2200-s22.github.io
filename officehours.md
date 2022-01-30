@@ -30,7 +30,7 @@ Office hours LAs: Zane Bookbinder, Tugi Davaadorj, Tony Liu, Alex Racape
 
 The weekly schedule **office hours/study groups**  is below. The default location for the LA office hours is the computer science lab, Searles 224.  You should all have been given access to this rooom because you are enrolled in this class.  If your ID does not open the room, please contact the CS coordinator, Sue Theberge (theberge at bowdoin dot  edu). 
 
-Remember that the LAs are  students first and they may need  to change the location,  time, or hold office hours by zoom.  All changes and announcements will be posted on Slack, so make sure you keep up to date. 
+Remember that the LAs are  students first and they may need  to change the location,  time, or hold office hours by zoom.  All changes and announcements will be posted on Slack, so make sure you check Slack regularly. 
 
 
 |              |   Time  (Who & location )  |
