@@ -34,9 +34,9 @@ The weekly schedule **office hours/study groups**  is as follows.
 |              |   Time  (Who & location )  |
 |:-------------|:-------------|:---------------|
 | Sundays      |  4-6 (Zane (Searles 224), 7-9 (Tony, Searles 224) |
-| Mondays      |  6-8 (Alex (Searles 224)  |
+| Mondays      |  1:15-2:30 (Laura, Searles 219), 6-8 (Alex (Searles 224)  |
 | Tuesdays     | -  | 
-| Wednesdays   |  |  
+| Wednesdays   |  1:15-2:30 (Laura, Searles 219)|  
 | Thursdays    | -  | 
 | Fridays      |  1-3 (Tugi, Searles 224)  |
 | Saturdays    |  | 
