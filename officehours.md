@@ -35,11 +35,11 @@ Remember that the LAs are  students first and they may need  to change the locat
 
 |              |   Time  (Who & location )  |
 |:-------------|:-------------|:---------------|
-| Sundays      |  4-6 (Zane, Searles 224), 7-9 (Tony, Searles 224) |
+| Sundays      |   7-9 (Tony, Searles 224) |
 | Mondays      |  1:15-2:30 (Laura, Searles 219), 6-8 (Alex (Searles 224)  |
 | Tuesdays     | -  | 
 | Wednesdays   |  1:15-2:30 (Laura, Searles 219)|  
-| Thursdays    | -  | 
+| Thursdays    |  7-9 (Zane, Searles 224) | 
 | Fridays      |  1-3 (Tugi, Searles 224)  |
 | Saturdays    | - | 
 

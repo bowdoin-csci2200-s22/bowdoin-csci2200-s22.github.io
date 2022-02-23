@@ -58,8 +58,8 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__    
   * __Lecture:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf)
-       * __Slides and videos:__ see Blackboard      
-       * __Precheck:__  see Blackboard
+  * __Slides and videos:__ see Blackboard      
+  * __Precheck:__  see Blackboard
   * __Lab:__   [Lab2](docs/lab2.pdf) 
   * __Quiz:__ [quiz2-practice.pdf](docs/week2-quiz-practice.pdf),   Quiz2: see Blackboard
   * __Assignment:__  Assignment 2 (on Gradescope)
@@ -83,8 +83,8 @@ __Objectives:__ By the end of this  week you should be able to:
 
 __Resources:__    
   * __Lecture:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf)
-       * __Slides and videos:__    see Blackboard    
-       * __Precheck:__  see Blackboard     
+  	* __Slides and videos:__    see Blackboard    
+  	* __Precheck:__  see Blackboard     
   * __Lab:__   [Lab3](docs/lab3.pdf) 
   * __Quiz:__ [quiz3-practice.pdf](docs/week3-quiz-practice.pdf) ; Quiz3: see Blackboard
   * __Assignment:__ Assignment 3 (on Gradescope)
@@ -106,13 +106,13 @@ __Objectives:__ By the end of this  week you should be able to:
 * Understand Randomized-Quicksort and its analyzis
 
 __Resources:__     
-	* __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf)
+* __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf)
 	* __Slides:__  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
 	* __Videos:__   see Blackboard  
 	* __Precheck:__  see Blackboard
-	* __Lab:__   [Lab4](docs/lab4.pdf) 
-	* __Quiz:__      Quiz4 see Blackboard
-	* __Assignment:__ Assignment 4  (on Gradescope)
+* __Lab:__   [Lab4](docs/lab4.pdf) 
+* __Quiz:__      Quiz4 see Blackboard
+* __Assignment:__ Assignment 4  (on Gradescope)
 
  ***
   
