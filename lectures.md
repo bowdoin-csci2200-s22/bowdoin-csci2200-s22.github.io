@@ -205,7 +205,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * Move towards applying DP to new problems 
 
 __Resources:__
-* __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [rod.pdf](docs/summary-rod.pdf), 
+* __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [rod-summary.pdf](docs/summary-rod.pdf)
     * __Slides and videos:__    see Blackboard   
     * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab8](docs/lab8.pdf) 
