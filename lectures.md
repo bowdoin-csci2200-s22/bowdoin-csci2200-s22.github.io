@@ -197,7 +197,7 @@ __Resources:__
 ### Week 8: Dynamic Programming 
 _Mar 28 - Apr 1_
 
-This week we introduce the technique called _dynamic programming_ and see it at work on  three problems: board game, rod, and knapsak. 
+This week we introduce the technique called _dynamic programming_ and see it at work on  three problems: Fibonacci, board game and rod cutting. 
 
 __Objectives:__ By the end of this  week you should be able to: 
 * Understand  the basic principles of dynamic programming  
@@ -205,7 +205,7 @@ __Objectives:__ By the end of this  week you should be able to:
 * Move towards applying DP to new problems 
 
 __Resources:__
-* __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [LN-knapsack.pdf](docs/week8-LN-knapsack.pdf) , [rod.pdf](docs/summary-rod.pdf), [knapsack.pdf](docs/summary-knapsack.pdf)
+* __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [rod-summary.pdf](docs/summary-rod.pdf)
     * __Slides and videos:__    see Blackboard   
     * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab8](docs/lab8.pdf) 
@@ -217,18 +217,19 @@ __Resources:__
  
  
  
-### Week 9: Greedy algorithms 
+### Week 9: More DP examples; Greedy algorithms 
 _Apr 4-8_
 
-This week we introduce the greedy technique via the _activity selection_ problem. 
+This week we add more ddynamic programming examples, and we introduce the greedy technique via the _activity selection_ problem. 
 
 __Objectives:__ By the end of this  week you should be able to: 
+* Understand the knapsack problem 
 * Understand  how  the greedy technique works in general and contrast it with DP
 * Understand the greedy solution for the example discussed in the lecture notes (activity selection), including the correctness proof 
 * Move towards  applying the greedy technique to new problems 
 
 __Resources:__
-* __Lecture notes:__ [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
+* __Lecture notes:__ [LN-knapsack.pdf](docs/week8-LN-knapsack.pdf), [knapsack.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
    * __Slides and videos:__    see Blackboard   
    * __Precheck:__  see Blackboard    
 * __Lab:__   [Lab9](docs/lab9.pdf) 
