@@ -18,6 +18,8 @@ This is the zoom link we'll use for all zoom meetings throughout the semester (e
 
 [https://bowdoin.zoom.us/j/95265450964?pwd=TG5PeUhJQ3ZNRjdCMHhUT05nYUdMZz09](https://bowdoin.zoom.us/j/95265450964?pwd=TG5PeUhJQ3ZNRjdCMHhUT05nYUdMZz09)
 
+
+
 Meeting ID: 952 6545 0964
 Passcode: 270550
 
